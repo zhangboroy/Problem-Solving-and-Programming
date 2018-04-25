@@ -1,0 +1,230 @@
+// Read the winning configurations
+// Implement the 3D-board
+// Let 2 players play the game until the game is over
+
+-------------------------------------------------------------
+
+// Read the winning configurations
+//* Create a 4D-array to store the winning configurations
+//* Read winning configurations from the file to the 4D-array
+
+// Implement the 3D-board
+// Let 2 players play the game until the game is over
+
+-------------------------------------------------------------
+
+// Read the winning configurations
+//* Create a 4D-array to store the winning configurations
+//* Read winning configurations from the file to the 4D-array
+
+// Implement the 3D-board
+//* Initiate a 3D-array for the board
+//* Print the board
+
+// Let 2 players play the game until the game is over
+
+-------------------------------------------------------------
+
+// Read the winning configurations
+//* Create a 4D-array to store the winning configurations
+//* Read winning configurations from the file to the 4D-array
+
+// Implement the 3D-board
+//* Initiate a 3D-array for the board
+//* Print the board
+
+// Let 2 players play the game until the game is over
+//* Do
+//* Request the player to place his/her markers
+//* Set the board with the user input after validation
+//* Print the board
+//* Check if the game is over
+//* Change the player
+//* While the game is not over
+
+-------------------------------------------------------------
+
+// Read the winning configurations
+//* Create a 4D-array to store the winning configurations
+//* Read winning configurations from the file to the 4D-array
+
+// Implement the 3D-board
+//* Initiate a 3D-array for the board
+//* Print the board
+
+// Let 2 players play the game until the game is over
+//* Do
+//* Request the player to place his/her markers
+//** Do
+//** Ask the player to input
+//** While the input is invalid
+
+//* Set the board with the user input after validation
+//* Print the board
+//* Check if the game is over
+//* Change the player
+//* While the game is not over
+
+-------------------------------------------------------------
+
+// Read the winning configurations
+//* Create a 4D-array to store the winning configurations
+//* Read winning configurations from the file to the 4D-array
+
+// Implement the 3D-board
+//* Initiate a 3D-array for the board
+//* Print the board
+
+// Let 2 players play the game until the game is over
+//* Do
+//* Request the player to place his/her markers
+//** Do
+//** Ask the player to input
+//** While the input is invalid
+
+//* Set the board with the user input after validation
+//* Print the board
+//* Check if the game is over
+//** Check if the player has won
+//** Check if the board is full
+
+//* Change the player
+//* While the game is not over
+
+-------------------------------------------------------------
+
+// Read the winning configurations
+//* Create a 4D-array to store the winning configurations
+//* Read winning configurations from the file to the 4D-array
+
+// Implement the 3D-board
+//* Initiate a 3D-array for the board
+//* Print the board
+
+// Let 2 players play the game until the game is over
+//* Do
+//* Request the player to place his/her markers
+//** Do
+//** Ask the player to input
+//** While the input is invalid
+
+//* Set the board with the user input after validation
+//* Print the board
+//* Check if the game is over
+//** Check if the player has won
+//*** If the player has won, then{
+//*** Announce Win
+//*** End the game}
+
+//** Check if the board is full
+
+//* Change the player
+//* While the game is not over
+
+-------------------------------------------------------------
+
+// Read the winning configurations
+//* Create a 4D-array to store the winning configurations
+//* Read winning configurations from the file to the 4D-array
+
+// Implement the 3D-board
+//* Initiate a 3D-array for the board
+//* Print the board
+
+// Let 2 players play the game until the game is over
+//* Do
+//* Request the player to place his/her markers
+//** Do
+//** Ask the player to input
+//** While the input is invalid
+
+//* Set the board with the user input after validation
+//* Print the board
+//* Check if the game is over
+//** Check if the player has won
+//*** If the player has won, then{
+//*** Announce win
+//*** End the game}
+
+//** Check if the board is full
+//*** If the board is full, then{
+//*** Announce to restart
+//*** Reset the board
+//*** Print the board
+//*** Set to player2}
+
+//* Change the player
+//* While the game is not over
+
+-------------------------------------------------------------
+
+// Read the winning configurations
+//* Create a 1D-array to store the winning configurations
+//* Read winning configurations from the file to the 1D-array
+//** Create a string to store the current string in the file
+//** If the string is valid, then transfer its data to the array
+
+// Implement the 3D-board
+//* Initiate a 3D-array for the board
+//* Print the board
+
+// Let 2 players play the game until the game is over
+//* Do
+//* Request the player to place his/her markers
+//** Do
+//** Ask the player to input
+//** While the input is invalid
+
+//* Set the board with the user input after validation
+//* Print the board
+//* Check if the game is over
+//** Check if the player has won
+//*** If the player has won, then{
+//*** Announce win
+//*** End the game}
+
+//** Check if the board is full
+//*** If the board is full, then{
+//*** Announce to restart
+//*** Reset the board
+//*** Print the board
+//*** Set to player2}
+
+//* Change the player
+//* While the game is not over
+
+-------------------------------------------------------------
+
+// Read the winning configurations
+//* Create a 1D-array to store the winning configurations
+//* Read winning configurations from the file to the 1D-array
+//** Create a string to store the current string in the file
+//** If the string is valid, then transfer its data to the array
+
+// Implement the 3D-board
+//* Initiate a 3D-array for the board
+//* Print the board
+
+// Let 2 players play the game until the game is over
+//* Do
+//* Request the player to place his/her markers
+//** Do
+//** Ask the player to input
+//** While the input is invalid
+
+//* Set the board with the user input after validation
+//* Print the board
+//* Check if the game is over
+//** Check if the player has won
+//*** If the player has won, then{
+//*** Announce win
+//*** End the game}
+
+//** Check if the board is full
+//*** If the board is full, then{
+//*** Announce to restart
+//*** Implement the 3D-board
+//*** Set to player2}
+
+//* Change the player
+//* While the game is not over
