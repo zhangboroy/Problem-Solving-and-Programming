@@ -1,0 +1,109 @@
+Arsenal 3 - 4 Liverpool
+Arsenal 0 - 2 Chelsea
+Arsenal 4 - 1 United
+Arsenal 1 - 4 Newcastle
+Arsenal 4 - 4 Everton
+Arsenal 1 - 0 Hull
+Arsenal 2 - 1 Swansea
+Arsenal 3 - 0 Norwich
+Arsenal 2 - 1 Stoke
+Liverpool 4 - 3 Arsenal
+Liverpool 2 - 1 Chelsea
+Liverpool 2 - 1 United
+Liverpool 4 - 0 Newcastle
+Liverpool 2 - 1 Everton
+Liverpool 5 - 5 Hull
+Liverpool 0 - 1 Swansea
+Liverpool 6 - 7 Norwich
+Liverpool 3 - 1 Stoke
+Chelsea 3 - 2 Arsenal
+Chelsea 1 - 2 Liverpool
+Chelsea 0 - 0 United
+Chelsea 1 - 1 Newcastle
+Chelsea 0 - 0 Everton
+Chelsea 1 - 1 Hull
+Chelsea 2 - 1 Swansea
+Chelsea 0 - 0 Norwich
+Chelsea 1 - 1 Stoke
+United 3 - 2 Arsenal
+United 0 - 0 Liverpool
+United 3 - 3 Chelsea
+United 3 - 1 Newcastle
+United 2 - 1 Everton
+United 2 - 1 Hull
+United 0 - 0 Swansea
+United 1 - 0 Norwich
+United 1 - 1 Stoke
+Newcastle 2 - 2 Arsenal
+Newcastle 5 - 1 Liverpool
+Newcastle 1 - 1 Chelsea
+Newcastle 5 - 4 United
+Newcastle 1 - 3 Everton
+Newcastle 1 - 1 Hull
+Newcastle 3 - 3 Swansea
+Newcastle 3 - 3 Norwich
+Newcastle 1 - 1 Stoke
+Everton 7 - 1 Arsenal
+Everton 2 - 3 Liverpool
+Everton 2 - 6 Chelsea
+Everton 0 - 0 United
+Everton 1 - 1 Newcastle
+Everton 1 - 0 Hull
+Everton 3 - 3 Swansea
+Everton 1 - 1 Norwich
+Everton 5 - 6 Stoke
+Hull 0 - 0 Arsenal
+Hull 3 - 3 Liverpool
+Hull 1 - 2 Chelsea
+Hull 0 - 1 United
+Hull 0 - 0 Newcastle
+Hull 5 - 4 Everton
+Hull 0 - 3 Swansea
+Hull 1 - 0 Norwich
+Hull 1 - 2 Stoke
+Swansea 5 - 0 Arsenal
+Swansea 0 - 0 Liverpool
+Swansea 3 - 7 Chelsea
+Swansea 6 - 4 United
+Swansea 2 - 0 Newcastle
+Swansea 2 - 1 Everton
+Swansea 1 - 2 Hull
+Swansea 4 - 1 Norwich
+Swansea 1 - 4 Stoke
+Norwich 0 - 0 Arsenal
+Norwich 1 - 1 Liverpool
+Norwich 3 - 2 Chelsea
+Norwich 0 - 3 United
+Norwich 6 - 6 Newcastle
+Norwich 1 - 4 Everton
+Norwich 0 - 1 Hull
+Norwich 0 - 0 Swansea
+Norwich 0 - 5 Stoke
+Stoke 0 - 0 Arsenal
+Stoke 0 - 0 Liverpool
+Stoke 2 - 2 Chelsea
+Stoke 4 - 4 United
+Stoke 0 - 2 Newcastle
+Stoke 2 - 1 Everton
+Stoke 0 - 0 Hull
+Stoke 4 - 0 Swansea
+Stoke 0 - 0 Norwich
+
+
+
+************************************
+************************************
+
+1  Liverpool   33 WWWWWWDLLWWDLWDDDD
+2  United      28 LLDWDDWWWDWDLDWLWD
+3  Chelsea     27 WLWLDDDDWDDDDWWWLD
+4  Stoke       27 LLDDDWWWWDDDDLWDWD
+5  Swansea     26 LWLDDDWWDLWWWLWLDL
+6  Newcastle   22 WLDLDWDWLDDDDDDLDW
+7  Arsenal     20 LLWLDWWWWLLLDLDLDD
+8  Hull        19 LDDLDLDDLLDWLWLWWD
+9  Everton     18 DLDLWWLLDDWDDLLLWL
+10 Norwich     14 LWDLDDLLDDWLDLLDLD
+
+************************************
+************************************

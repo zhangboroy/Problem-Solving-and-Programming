@@ -1,0 +1,11 @@
+10
+Arsenal 50 20
+Liverpool 40 20
+Chelsea 40 20
+United 40 10
+Newcastle 40 10
+Everton 20 40
+Hull 35 30
+Swansea 35 30
+Norwich 15 30
+Stoke 15 30
