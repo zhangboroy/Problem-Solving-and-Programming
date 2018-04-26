@@ -1,0 +1,6 @@
+5
+One 400
+Five 300
+Ten 200
+Twenty 50
+Quarter 500

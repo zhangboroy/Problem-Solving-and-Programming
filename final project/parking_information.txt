@@ -1,0 +1,4 @@
+Total Visited Cars: 3
+Total Emergency Cars: 11
+Total Cash at the End of Day: $5085.00
+Total Amount Earned by the Parking Machine: $60.00
